@@ -1,6 +1,8 @@
 [submodule "mikanos-build"]
 	path = mikanos-build
 	url = https://github.com/uchan-nos/mikanos-build
+	ignore = dirty
 [submodule "edk2"]
 	path = edk2
 	url = https://github.com/tianocore/edk2
+	ignore = dirty

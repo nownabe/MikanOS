@@ -13,3 +13,9 @@ Original source code:
 Support site:
 
 * [ゼロからの OS 自作入門 | ゼロからのOS自作入門](https://zero.osdev.jp/)
+
+## Set up
+
+```bash
+ln -s `pwd`/MikanLoaderPkg edk2/
+```
